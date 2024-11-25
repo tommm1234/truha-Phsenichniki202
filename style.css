@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: #333;
+    color: #0b0101;
     background-color: #f9f9f9;
 }
 
@@ -18,23 +18,23 @@ body {
 }
 
 .logo-image {
-    height: 80px;
+    height: 100px;
     width: auto;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 .logo {
-    font-size: 50px;
+    font-size: 80px;
     font-weight: bold;
-    color: #fff;
+    color: #020101e7;
     display: inline-block;
     margin: 0;
 }
 
 /* Заголовок */
 .header {
-    background-color: #0066cc;
-    color: #fff;
+    background-color: #f3dd03;
+    color: #0c0909d5;
     padding: 20px 0;
     position: sticky;
     top: 0;
@@ -42,7 +42,7 @@ body {
 }
 
 .logo {
-    font-size: 24px;
+    font-size: 45px;
     font-weight: bold;
 }
 
@@ -52,10 +52,10 @@ body {
 }
 
 .nav-link {
-    color: #fff;
+    color: #090707cf;
     text-decoration: none;
-    margin-left: 15px;
-    font-size: 16px;
+    margin-left: 10px;
+    font-size: 15px;
 }
 
 .nav-link:hover {
@@ -69,7 +69,7 @@ body {
 
 .section-title {
     font-size: 28px;
-    color: #0066cc;
+    color: #000001;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -83,7 +83,7 @@ body {
 .news-item {
     background-color: #fff;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #0202028b;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -99,7 +99,7 @@ body {
 }
 
 .news-link {
-    color: #0066cc;
+    color: #f3dd03;
     text-decoration: none;
     font-weight: bold;
 }
@@ -110,7 +110,7 @@ body {
 
 /* Про нас та контакти */
 .about-section, .contact-section {
-    background-color: #eef5ff;
+    background-color: #f3db0331;
     padding: 20px;
     border-radius: 8px;
     margin-top: 40px;
@@ -127,7 +127,7 @@ body {
 }
 
 .contact-link {
-    color: #0066cc;
+    color: #1503d8c8;
     text-decoration: none;
     font-weight: bold;
 }
